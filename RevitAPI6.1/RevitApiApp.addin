@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ElementsCounter</Name>
+    <Assembly>Путь\к\вашей\сборке.dll</Assembly>
+    <AddInId>ElementsCounterApp</AddInId>
+    <FullClassName>RevitElementsCounter.ElementsCounterApp</FullClassName>
+    <VendorId>YourCompany</VendorId>
+    <VendorDescription>Your Company Description</VendorDescription>
+  </AddIn>
+</RevitAddIns>
