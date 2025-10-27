@@ -3,7 +3,7 @@
   <AddIn Type="Application">
     <Name>ElementsCounter</Name>
     <Assembly>C:\Users\ilnur\Documents\Уку\RevitApi\6.1.dll</Assembly>
-    <AddInId>ElementsCounterApp</AddInId>
+    <AddInId>3B3B201F-A531-4E22-95C2-4815293AE8B1</AddInId>
     <FullClassName>RevitElementsCounter.ElementsCounterApp</FullClassName>
     <VendorId>ADSK</VendorId>
     <VendorDescription>ADSK</VendorDescription>
